@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
+:root {
+  font-family: 'VT323', monospace;
+}
+
+body {
+  background-color: #2c5d63;
+  margin: 0;
+  /* This ensures the retro font looks crisp */
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+}
